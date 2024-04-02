@@ -1,0 +1,64 @@
+{
+  "product": [
+    {
+      "productName": "Nordic Chair",
+      "inStock": "10",
+      "description": "Nordic Chair mang đến sự kết hợp hoàn hảo giữa thiết kế đơn giản và sự thoải mái tối đa. Với chất liệu và công nghệ sản xuất hiện đại.",
+      "price": 200,
+      "imageUrl": "./assets/images/product-1.png",
+      "id": "1"
+    },
+    {
+      "productName": "Kruzo Aero Chair",
+      "inStock": "10",
+      "description": "Kruzo Aero Chair mang đến sự kết hợp hoàn hảo giữa thiết kế đơn giản và sự thoải mái tối đa. Với chất liệu và công nghệ sản xuất hiện đại.",
+      "price": 300,
+      "imageUrl": "./assets/images/product-2.png",
+      "id": "2"
+    },
+    {
+      "productName": "Ergonomic Chair",
+      "inStock": "10",
+      "description": "Ergonomic Chair mang đến sự kết hợp hoàn hảo giữa thiết kế đơn giản và sự thoải mái tối đa. Với chất liệu và công nghệ sản xuất hiện đại.",
+      "price": 400,
+      "imageUrl": "./assets/images/product-3.png",
+      "id": "3"
+    },
+    {
+      "productName": "White Bar Chair",
+      "inStock": "10",
+      "description": "White Bar Chair mang đến sự kết hợp hoàn hảo giữa thiết kế đơn giản và sự thoải mái tối đa. Với chất liệu và công nghệ sản xuất hiện đại.",
+      "price": 500,
+      "imageUrl": "./assets/images/product-4.png",
+      "id": "4"
+    },
+    {
+      "productName": "Meeting Chair",
+      "inStock": "10",
+      "description": "Meeting Chair mang đến sự kết hợp hoàn hảo giữa thiết kế đơn giản và sự thoải mái tối đa. Với chất liệu và công nghệ sản xuất hiện đại.",
+      "price": 600,
+      "imageUrl": "./assets/images/product-5.png",
+      "id": "5"
+    },
+    {
+      "productName": "Black Bar Chair",
+      "inStock": "10",
+      "description": "Black Bar Chair mang đến sự kết hợp hoàn hảo giữa thiết kế đơn giản và sự thoải mái tối đa. Với chất liệu và công nghệ sản xuất hiện đại.",
+      "price": 700,
+      "imageUrl": "./assets/images/product-6.png",
+      "id": "6"
+    }
+  ],
+  "user": [
+    {
+      "id": "ec16",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "1eac",
+      "email": "vendor@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
